@@ -1,12 +1,12 @@
-# 📊 Sales & Profit Analysis Dashboard
+# Sales & Profit Analysis Dashboard
 
-## 📌 Problem Statement
+## Problem Statement
 
 The objective of this project is to analyze sales performance and identify the reasons behind low profitability despite strong revenue.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * SQL (Data Analysis)
 * Microsoft Power BI (Data Visualization)
@@ -14,7 +14,7 @@ The objective of this project is to analyze sales performance and identify the r
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains information on:
 
@@ -27,7 +27,7 @@ The dataset contains information on:
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 
 ### 1. Data Cleaning
 
@@ -50,7 +50,7 @@ The dataset contains information on:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 * 41% of products are loss-making
 * Technology category contributes the highest losses
@@ -60,18 +60,20 @@ The dataset contains information on:
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Dashboard 1: Overview
 
-(Add screenshot here)
+<img width="1326" height="745" alt="Sales   Profit Performance Dashboard" src="https://github.com/user-attachments/assets/52b8e86e-9c39-4402-8c60-c049c8e691c8" />
+
 
 ### Dashboard 2: Detailed Analysis
 
-(Add screenshot here)
+<img width="1325" height="744" alt="Profitability Analysis Dashboard" src="https://github.com/user-attachments/assets/749066ac-e70b-4d7a-89a8-3fc63b779f13" />
+
 
 ---
 
-## 📈 Conclusion
+## Conclusion
 
 This project highlights the importance of analyzing profitability alongside sales. Businesses should optimize discount strategies and review loss-making products to improve overall performance.
